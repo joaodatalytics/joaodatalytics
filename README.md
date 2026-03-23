@@ -1,47 +1,93 @@
-# Olá! 👋 Sou o João Gabriel
+<div align="center">
 
-### ☁️ Data Analyst | Cloud Computing | AWS
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF9900,232F3E&height=200&section=header&text=João_Gabriel_Santos&fontSize=50&animation=fadeIn&fontColor=ffffff)
 
-Acredito que a tecnologia só gera valor real quando transforma dados em decisões e simplifica operações complexas. Sou focado em extrair inteligência de negócio através de arquiteturas de dados otimizadas, garantindo segurança, escalabilidade e automação para a operação.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9900&center=true&width=550&lines=Cloud+Data+Analyst;Construindo+Pipelines+Serverless;Transformando+Dados+em+Negócios+📊☁️)](https://git.io/typing-svg)
 
-📍 **Recife, PE - Brasil**
+**Analista de Dados Cloud · Sistemas de Informação · Recife, Brasil**
 
----
-
-### 🚀 Sobre Mim
-
-- 🎓 Graduando em **Sistemas de Informação** na UNINTER.
-- ☁️ Aprofundando minha especialização prática em arquitetura em nuvem através do programa **AWS re/Start** (Escola da Nuvem).
-- 🎯 Foco absoluto em atuar como **Analista de Dados Cloud**, construindo pipelines escaláveis, orquestrando rotinas *serverless* e gerando relatórios precisos para tomada de decisão.
-- 📚 Atualmente me preparando para a certificação **AWS Certified Cloud Practitioner**.
+</div>
 
 ---
 
-### 🛠️ Stack Tecnológico
+## 🚀 Sobre mim
 
-**Cloud & Automação:**
+> 🎯 **Objetivo:** Atuar como **Analista de Dados** com profundo foco em **Cloud Computing (AWS)**. Sou apaixonado por projetar pipelines de dados escaláveis, automatizar rotinas serverless e gerar inteligência de negócio que reduza custos operacionais.
+
+Graduando em Sistemas de Informação na UNINTER e imerso na arquitetura de nuvem através do programa AWS re/Start (Escola da Nuvem). Meu foco é unir a precisão da engenharia de dados com o pragmatismo da nuvem: arquiteturas que escalam sob demanda e geram valor real para a tomada de decisão. 
+
+---
+
+## ☁️ Arquitetura Cloud & Dados
+
+<div align="center">
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**Manipulação de Dados & Lógica:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 📊 Visão Estratégica
-> "A infraestrutura mais eficiente para processar dados é aquela que você não precisa gerenciar." 
-
-Busco sempre desenhar soluções baseadas no princípio do *Security by Design* e na otimização de custos (Pay-as-you-go), utilizando serviços gerenciados para eliminar complexidade operacional e focar no que importa: **o fluxo do dado e o resultado do negócio.**
+</div>
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Manipulação e Análise de Dados
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodatalytics&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
 
 ---
 
-### 📫 Vamos nos conectar?
+## 📚 Atualmente aprendendo / Foco de Estudo
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joaognscmnt-dados)
+- ☁️ Arquiteturas Serverless orientadas a eventos para processamento de dados.
+- 📊 Modelagem de dados, criação de Data Lakes (S3) e otimização de queries.
+- 🔐 *Security by Design*: Governança de dados e políticas de acesso (IAM).
+- ⚙️ Integração de pipelines de extração com ferramentas de visualização (BI).
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=dark&title_color=FF9900&icon_color=FF9900&text_color=ffffff&bg_color=0d1117&border_color=FF9900)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&theme=dark&title_color=FF9900&text_color=ffffff&bg_color=0d1117&border_color=FF9900)
+
+</div>
+
+---
+
+## 🏆 Roadmap de Certificações
+
+<div align="center">
+
+| Certificação | Status |
+|---|---|
+| AWS Certified Cloud Practitioner (CLF-C02) | ⏳ Em andamento |
+| AWS Certified Data Engineer – Associate | ⬜ Planejado |
+| AWS Certified Solutions Architect – Associate | ⬜ Planejado |
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[SEU_LINKEDIN]/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU_EMAIL])
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FF9900,232F3E&height=100&section=footer)
