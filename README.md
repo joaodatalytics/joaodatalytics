@@ -75,6 +75,10 @@ Graduando em Sistemas de Informação na UNINTER e imerso na arquitetura de nuve
 | Certificação | Status |
 |---|---|
 | AWS Certified Cloud Practitioner (CLF-C02) | ⏳ Em andamento |
+| Microsoft Certified: Azure Fundamentals (AZ-900) | ⬜ Planejado |
+| Microsoft Certified: Azure Data Fundamentals (DP-900) | ⬜ Planejado |
+| Microsoft Certified: Power BI Data Analyst Associate (PL-300) | ⬜ Planejado |
+| Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) | ⬜ Planejado |
 | AWS Certified Data Engineer – Associate | ⬜ Planejado |
 | AWS Certified Solutions Architect – Associate | ⬜ Planejado |
 
