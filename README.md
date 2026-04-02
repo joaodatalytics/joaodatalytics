@@ -60,9 +60,8 @@ Graduando em Sistemas de Informação na UNINTER e imerso na arquitetura de nuve
 
 <div align="center">
 
-![João Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaodatalytics&show_icons=true&theme=dark&title_color=0A66C2&icon_color=0A66C2&text_color=ffffff&bg_color=0d1117&border_color=0A66C2)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodatalytics&layout=compact&theme=dark&title_color=0A66C2&text_color=ffffff&bg_color=0d1117&border_color=0A66C2)
+<img height="170"
+src="https://stats-github-readme.vercel.app/api?username=joaodatalytics&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
 </div>
 
