@@ -56,7 +56,7 @@ Graduando em Sistemas de Informação na UNINTER e imerso na arquitetura de nuve
 
 ---
 
-## 📊 GitHub Stats *(Tema Azul)*
+## 📊 GitHub Stats 
 
 <div align="center">
 
