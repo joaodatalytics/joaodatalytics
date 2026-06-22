@@ -12,35 +12,44 @@
 
 ## 🚀 Sobre mim
 
-> 🎯 **Objetivo:** Atuar como **Analista de Dados** com profundo foco em **Cloud Computing (AWS)**. Sou apaixonado por projetar pipelines de dados escaláveis, automatizar rotinas serverless e gerar inteligência de negócio que reduza custos operacionais.
+> 🎯 **Objetivo:** Atuar como **Analista de Dados** com profundo foco em **Cloud Computing** e **Governança**. Sou apaixonado por projetar pipelines de dados escaláveis, automatizar rotinas serverless e gerar inteligência de negócio garantindo a conformidade e a segurança da informação.
 
-Graduando em Sistemas de Informação na UNINTER e imerso na arquitetura de nuvem através do programa AWS re/Start (Escola da Nuvem). Meu foco é unir a precisão da engenharia de dados com o pragmatismo da nuvem: arquiteturas que escalam sob demanda e geram valor real para a tomada de decisão. 
+Graduando em Sistemas de Informação na UNINTER e imerso na arquitetura de nuvem através do programa AWS re/Start (Escola da Nuvem). Meu foco é unir a precisão da engenharia de dados com o pragmatismo estratégico: arquiteturas que escalam sob demanda, respeitam as normativas de privacidade (LGPD) e geram valor real para a tomada de decisão através de ferramentas de BI e integração contínua.
 
 ---
 
-## ☁️ Arquitetura Cloud & Dados *(aprendendo)*
+## ☁️ Cloud & Infraestrutura Serverless
 
 <div align="center">
 
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![RDS](https://img.shields.io/badge/AWS-RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![VPC](https://img.shields.io/badge/AWS-VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![IAM](https://img.shields.io/badge/AWS-IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CAF](https://img.shields.io/badge/AWS-CAF-1A9C3E?style=for-the-badge)
-![WAF](https://img.shields.io/badge/AWS-WAF-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-%23669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ Manipulação e Análise de Dados
+## 🛠️ Manipulação, Análise e Desenvolvimento
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
+![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
@@ -49,10 +58,10 @@ Graduando em Sistemas de Informação na UNINTER e imerso na arquitetura de nuve
 
 ## 📚 Atualmente aprendendo / Foco de Estudo
 
-- ☁️ Arquiteturas Serverless orientadas a eventos para processamento de dados.
-- 📊 Modelagem de dados, criação de Data Lakes (S3) e otimização de queries.
-- 🔐 *Security by Design*: Governança de dados e políticas de acesso (IAM).
-- ⚙️ Integração de pipelines de extração com ferramentas de visualização (BI).
+- ⚙️ **Integração de Dados (ETL/ELT):** Construindo e automatizando pipelines modernos de ingestão e orquestração de dados utilizando ferramentas cloud-native como **Stitch** e **Kondado**.
+- 📊 **Business Intelligence (BI) Avançado:** Aprofundamento nas ferramentas **Qlik** e Power BI para criação de dashboards executivos e extração de métricas operacionais complexas.
+- 🔐 **Governança de Dados e Compliance:** Estudo rigoroso das diretrizes da **LGPD**, mapeamento de dados sensíveis, ética e segurança da informação (*Security by Design*).
+- ☁️ **Data Warehousing:** Estruturação de dados centralizados para análises em larga escala utilizando o **Google BigQuery**.
 
 ---
 
@@ -60,8 +69,7 @@ Graduando em Sistemas de Informação na UNINTER e imerso na arquitetura de nuve
 
 <div align="center">
 
-<img height="170"
-src="https://stats-github-readme.vercel.app/api?username=joaodatalytics&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="170" src="https://stats-github-readme.vercel.app/api?username=joaodatalytics&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
 </div>
 
@@ -74,12 +82,11 @@ src="https://stats-github-readme.vercel.app/api?username=joaodatalytics&show_ico
 | Certificação | Status |
 |---|---|
 | AWS Certified Cloud Practitioner (CLF-C02) | ⏳ Em andamento |
-| Microsoft Certified: Azure Fundamentals (AZ-900) | ⬜ Planejado |
-| Microsoft Certified: Azure Data Fundamentals (DP-900) | ⬜ Planejado |
 | Microsoft Certified: Power BI Data Analyst Associate (PL-300) | ⬜ Planejado |
 | Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) | ⬜ Planejado |
+| Microsoft Certified: Azure Fundamentals (AZ-900) | ⬜ Planejado |
+| Microsoft Certified: Azure Data Fundamentals (DP-900) | ⬜ Planejado |
 | AWS Certified Data Engineer – Associate | ⬜ Planejado |
-| AWS Certified Solutions Architect – Associate | ⬜ Planejado |
 
 </div>
 
