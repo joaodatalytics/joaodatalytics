@@ -2,7 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0A66C2,232F3E&height=200&section=header&text=João%20Gabriel%20S%20do%20Nascimento&fontSize=35&animation=fadeIn&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&width=550&lines=Cloud+Data+Analyst;Construindo+Pipelines+Serverless;Transformando+Dados+em+Neg%C3%B3cios+%F0%9F%93%8A%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&width=550&lines=Cloud+Data+Analyst;Construindo+Pipelines+Serverless;Transformando+Dados+em+Neg%C3%B3cios+%F0%9F%93%8A%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</div>
 
 **João Gabriel Santos do Nascimento · Analista de Dados Cloud em Formação · Recife, Brasil**
 
