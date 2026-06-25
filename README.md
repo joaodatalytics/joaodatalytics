@@ -20,6 +20,17 @@
 
 Graduando em Sistemas de Informação na UNINTER e imerso na arquitetura de nuvem através do programa AWS re/Start (Escola da Nuvem). Meu foco é unir a precisão da engenharia de dados com o pragmatismo estratégico: arquiteturas que escalam sob demanda, respeitam as normativas de privacidade (LGPD) e geram valor real para a tomada de decisão através de ferramentas de BI e integração contínua.
 
+<br>
+
+<div align="center">
+
+### 📂 Confira meus projetos
+[![Acessar Portfólio](https://img.shields.io/badge/Acessar_Portfólio_de_Dados_&_Cloud-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaodatalytics/Projetos-Dados-Cloud)
+
+</div>
+
+<br>
+
 ---
 
 ## ☁️ Cloud & Infraestrutura Serverless
